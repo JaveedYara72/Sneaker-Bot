@@ -1,0 +1,43 @@
+_______       _____                   _____________________ 
+___    |________  /_____________      ___    |___  _/_  __ \
+__  /| |_  ___/  __/_  ___/  __ \     __  /| |__  / _  / / /
+_  ___ |(__  )/ /_ _  /   / /_/ /     _  ___ |_/ /  / /_/ /  ((TITLE COLOR RED))
+/_/  |_/____/ \__/ /_/    \____/      /_/  |_/___/  \____/  
+                                                            
+------------------------------------------------------------
+
+
+[AstroAIO] 0.01 - Ready
+[AstroAIO] Welcome, ((USERNAME))
+
+[1] Run Tasks
+[2] Create Tasks
+[3] Create Profiles
+[4] Create Proxylist
+[5] Delete Tasks
+[6] Delete Profiles
+[7] Delete Proxy List
+[8] Change Webhook
+[9] Captcha Harvestor
+
+
+------------------------------------------------------------------------
+EVERYTHING UNDER HERE ARE REQUIREMENTS 
+
+Sites:
+
+Footlocker.ca
+Footlocker.com
+kidsfootlocker.com
+
+Color theme RED, WHITE 
+
+
+Underneeth the AstroAIO logo when u run the bot where it says [AstroAIO] make [AstroAIO] text color red then 0.01 - Ready white
+Please follow this same format for all the Options.
+
+AIO should be fully working without any issues. 
+
+AIO Is Seluim based and will work in a cli bot 
+
+Example: https://cdn.discordapp.com/attachments/734629032213217282/821421428522876988/video0.mp4
